@@ -183,7 +183,7 @@
   }
 
   /* ---------- Matching ---------- */
-  .match-cols{ display:flex; gap:16px; }
+  .match-cols{ display:flex; gap:16px; margin-bottom:18px; }
   .match-col{ flex:1; min-width:0; display:flex; flex-direction:column; gap:8px; }
   .match-item{
     background:var(--item-bg); border:2px solid var(--item-border); border-radius:8px;
